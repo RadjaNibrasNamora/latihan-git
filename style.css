@@ -1,0 +1,23 @@
+.container {
+  margin: auto;
+  align-content: center;
+  align-items: center;
+  width: auto;
+  height: auto;
+  text-align: center;
+}
+
+.container .before {
+  background-color: white;
+  position: absolute;
+  width: 144px;
+  height: 1px;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+}
+.after {
+  background-color: grey;
+
+  width: ;
+}
